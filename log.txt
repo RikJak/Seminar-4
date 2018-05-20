@@ -1,0 +1,140 @@
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:34)
+     This occurred at: 2018-05-20T13:52:27.893
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:34)
+     This occurred at: 2018-05-20T13:52:31.534
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:34)
+     This occurred at: 2018-05-20T14:05:56.061
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:34)
+     This occurred at: 2018-05-20T14:05:58.954
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:34)
+     This occurred at: 2018-05-20T14:06:01.425
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:34)
+     This occurred at: 2018-05-20T14:07:01.175
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:11:14.777
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:24)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:12:05.251
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:35:10.751
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:35:17.492
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:40:10.545
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:46:16.013
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:46:17.226
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:46:51.239
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:52:56.922
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:53:20.733
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:53:23.499
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:59:02.137
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T14:59:04.008
+se.kth.iv1350.integration.DatabaseFailureException: DatabaseFailure. Caused by item: 666
+	at se.kth.iv1350.integration.ItemRegistry.getItem(ItemRegistry.java:25)
+	at se.kth.iv1350.controller.Controller.scanItem(Controller.java:63)
+	at se.kth.iv1350.view.View.loopThroughInput(View.java:115)
+	at se.kth.iv1350.view.View.sampleExcecution(View.java:95)
+	at se.kth.iv1350.startup.Main.main(Main.java:35)
+     This occurred at: 2018-05-20T15:05:50.064

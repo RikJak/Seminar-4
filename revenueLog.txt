@@ -1,0 +1,26 @@
+2507,50 sek
+2532,50 sek
+2507,50 sek
+2532,50 sek
+2507,50 sek
+2532,50 sek
+2507,50 sek
+2532,50 sek
+2507,50 sek Transaction: 1  at:2018-05-20T14:46:16.001
+2532,50 sek Transaction: 2  at:2018-05-20T14:46:16.011
+2507,50 sek Transaction: 1  at:2018-05-20T14:46:17.211
+2532,50 sek Transaction: 2  at:2018-05-20T14:46:17.224
+2507,50 sek Transaction: 1  at:2018-05-20T14:46:51.219
+2532,50 sek Transaction: 2  at:2018-05-20T14:46:51.233
+2507,50 sek Transaction: 1  at:2018-05-20T14:52:56.905
+2532,50 sek Transaction: 2  at:2018-05-20T14:52:56.918
+2507,50 sek Transaction: 1  at:2018-05-20T14:53:20.720
+2532,50 sek Transaction: 2  at:2018-05-20T14:53:20.731
+2507,50 sek Transaction: 1  at:2018-05-20T14:53:23.484
+2532,50 sek Transaction: 2  at:2018-05-20T14:53:23.497
+2507,50 sek Transaction: 1  at:2018-05-20T14:59:02.125
+2532,50 sek Transaction: 2  at:2018-05-20T14:59:02.135
+2507,50 sek Transaction: 1  at:2018-05-20T14:59:03.991
+2532,50 sek Transaction: 2  at:2018-05-20T14:59:04.004
+2507,50 sek Transaction: 1  at:2018-05-20T15:05:50.052
+2532,50 sek Transaction: 2  at:2018-05-20T15:05:50.062

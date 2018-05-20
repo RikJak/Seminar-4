@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/model/CashRegister.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/startup/ErrorLogger.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/view/RevenueDisplay.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/integration/DatabaseFailureException.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/test/se/kth/iv1350/controller/ControllerTest.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/integration/RegistryCreator.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/integration/ItemRegistry.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/utilities/AmountOfMoney.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/startup/Main.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/integration/ItemNotFoundException.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/controller/Controller.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/view/ReverseRevenue.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/view/View.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/model/InsufficientFundsException.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/model/Sale.java</file>
+            <file>file:/Y:/User/KTH/Git/Seminar-3/Seminar%203/src/se/kth/Iv1350/view/TotalRevenueView.java</file>
+        </group>
+    </open-files>
+</project-private>
